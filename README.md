@@ -14,4 +14,7 @@ This project is intended for learning
 - Eigen math
 - CMake build system
 
+## Demo
+![Demo](assets/sample.gif)
+
 
